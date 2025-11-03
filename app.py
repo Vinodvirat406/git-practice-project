@@ -1,2 +1,1 @@
-print("Hello, Git with logging feature!")
-
+print("Debugging mode added.")
